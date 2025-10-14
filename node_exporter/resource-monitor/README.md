@@ -1,4 +1,7 @@
+# resouce dashboard:
 
+<details> 
+  <summary><h4>Metrics used</h4></summary>
 node_cpu_seconds_total
 node_disk_read_bytes_total
 node_disk_reads_completed_total
@@ -19,3 +22,13 @@ node_memory_SwapFree_bytes
 node_memory_SwapTotal_bytes
 node_network_receive_bytes_total
 node_network_transmit_bytes_total
+</details>
+<details> 
+  <summary><h4>Dependencies of variables</h4></summary>
+   <img alt="dependencies" src="../../images/logos/network-variables.png">
+</details>
+
+<details> 
+  <summary><h4>Required plugins</h4></summary>
+   <img alt="dependencies" src="../../images/logos/clock-panel.png">
+</details>
